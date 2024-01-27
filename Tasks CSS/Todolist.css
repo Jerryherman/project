@@ -1,0 +1,45 @@
+header{
+    color:white ;
+    font-size: 2em;
+    text-align: center;
+}
+body{
+    width: 40%;
+    height: 50px;
+}
+.head1{
+    color: white;
+    font-size: x-large;
+    text-align: center;
+}
+.head2{
+    text-align: left;
+    color: white;
+}
+.head3{
+    text-align: justify;
+    font-size: x-large;
+    color: white;
+}
+button{
+    height: 40px;
+    width: 100px;
+    font-size:xx-large;
+    background-color: orange;
+}
+.head4{
+    text-align: center;
+}
+footer{
+    text-decoration: underline;
+    color: white;
+    text-align: center;
+}
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYOaAk4JczceFOY49Ct-yRVpt2cgPnK9Illg&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: 50% 500%;
+}
+button:focus{
+    background-color: brown;
+}

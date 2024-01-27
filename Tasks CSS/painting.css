@@ -1,0 +1,17 @@
+.para1{
+    background-color: blue;
+    border: 10px dotted black;
+    padding: 30px;
+}
+.para2{
+    background-color: dodgerblue;
+    border: 10px dotted black;
+    padding: 30px;
+    background-clip: padding-box;
+}
+.para3{
+    background-color: dodgerblue;
+    border: 10px dotted black;
+    padding: 30px;
+    background-clip: content-box;
+}

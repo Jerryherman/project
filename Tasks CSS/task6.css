@@ -1,0 +1,41 @@
+body{
+    background-color: midnightblue;
+    
+}
+.name{
+    margin: 100px;
+    height: 700px;
+    width: 80%;
+    background:linear-gradient(to left,red,violet,skyblue);
+    border: 5px;
+    border-radius: 30px;
+}
+.bio{
+    background-color:black;
+    height: 500px;
+    width: 30%;
+    border: 20px;
+    border-radius: 30px;
+    margin: 50px;
+    color: aliceblue;
+    top: 130px;
+    left: 80px;
+    position: absolute;
+    
+
+}
+.details{
+    background-color:black;
+    height: 500px;
+    width: 30%;
+    border: 50px;
+    border-radius: 30px;
+    position: absolute;
+    margin: 50px;
+    top: 130px;
+    left: 600px;
+    color: aliceblue;
+
+
+}
+

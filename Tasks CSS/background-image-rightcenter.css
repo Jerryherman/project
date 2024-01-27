@@ -1,0 +1,12 @@
+body{
+    background-repeat: no-repeat;
+    background-image: url(https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/61iu18A-L-L._AC_UF1000,1000_QL80_.jpg);
+    margin: 0;
+    padding: 0;
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
