@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        td{
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <form>
+    <tr>
+        <td rowspan="2">
+            <fieldset style="width: 300PX;">
+                <legend>Customer</legend>
+                <table>
+                    
+                    <tr>
+                        <td>Name<span style="color: red;">*</span></td>
+                        <td><input type="text" required></td>
+                    </tr>
+                    <tr>
+                        <td>Email<span style="color: red;">*</span></td>
+                        <td><input type="text" required></td>
+                    </tr>
+                    <tr>
+                        <td>Investment</td>
+                        <td><select><option>choose optn</option></select></td>
+                    </tr>
+                    <tr>
+                        <td>Date Joined<span style="color: red;">*</span></td>
+                        <td><input type="date" required></td>
+                    </tr>
+                    <tr>
+                        <td>Active</td>
+                        <td><input type="checkbox" required></td>
+                    </tr>
+                </table>
+            </fieldset>
+        </td>
+        
+    </tr>
+    <tr>
+        <br>
+        <td>
+            <input type="submit" value="OK">
+            <input type="reset" value="Cancel">
+        </td>
+        
+    </tr>
+</form>
+</body>
+</html>
